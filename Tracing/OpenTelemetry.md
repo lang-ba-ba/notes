@@ -19,7 +19,8 @@ OpenTelemetry is a collection of tools, APIs, and SDKs. Use it to instrument, ge
 # settings 
 # pipeline config
 # instrument application
-## java (https://opentelemetry.io/docs/instrumentation/java/)
+## java 
+(https://opentelemetry.io/docs/instrumentation/java/)
 ## trace object
 ### trace provider
 ### span processor
