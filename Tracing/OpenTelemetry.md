@@ -12,9 +12,6 @@ OpenTelemetry is a collection of tools, APIs, and SDKs. Use it to instrument, ge
 - back end persistence , e.g DB, ELK
 - data collector, e.g APM server, Jaeger collector
 - instrument client app with agent which connect to collector and pull/push tracing data with it
-
-![Arch](pic/open-telemetry-protocol-arch.png)
-
 ![pic](open-telemetry-protocol-arch.png)
 
 # reference
