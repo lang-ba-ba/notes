@@ -1,10 +1,10 @@
 # device
-1. working think pad
+1. working thinkpad
 2. dell
-3. Mac
-4. raspi 4B
-5. iOS mobile
-6. person thinkpad
+3. Mac(x86 64)
+4. raspi 4B(aarch_64)
+5. iOS mobile(ish,alpine x86_32)
+6. personal thinkpad
 
 # Use case
 - home, work (a-1, b-5)
@@ -23,5 +23,10 @@ b. self upgrade
 c. educate kid
 
 # conclusion
-- win slow
-- non Mac slow
+- win or Mac or raspi dev/local
+- raspi sit
+
+# sit
+- only one server 
+- to avoid duplicate effort 
+- backend service,headless service and binary service e.g Elk should run at arm64 raspi
