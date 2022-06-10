@@ -23,8 +23,8 @@ b. self upgrade
 c. educate kid
 
 # conclusion
-- win or Mac or raspi dev/local
-- raspi sit
+- win or Mac as workspace 终端
+- raspi sit as server
 
 # sit
 - only one server 
