@@ -24,4 +24,5 @@ c. educate kid
 
 # conclusion
 - win slow
+- win and Mac is perfect func
 - non Mac slow
