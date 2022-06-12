@@ -30,3 +30,7 @@ c. educate kid
 - only one server 
 - to avoid duplicate effort 
 - backend service,headless service and binary service e.g Elk should run at arm64 raspi
+
+# build infra
+- easy to rebuild
+- export / import image
