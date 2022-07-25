@@ -22,6 +22,8 @@ b. self upgrade
 
 c. educate kid
 
+d. cast, educate 
+
 # conclusion
 - win or Mac as workspace 终端
 - raspi sit as server
@@ -34,3 +36,13 @@ c. educate kid
 # build infra
 - easy to rebuild
 - export / import image
+
+# use case 
+- home, work day, 3-b
+- home weekend, 4-d
+- sit server,4-b
+
+# cast 
+- Devops 
+- Linux 
+
