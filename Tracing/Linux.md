@@ -17,3 +17,5 @@
 - mount -t ios <*src floder*> <*dest folder*>
 - export your filesystem, you can import it by your any iOS device, anything will like replay except mount iOS disk, you have to mount again
 - install gcc, I make a c file, it works
+
+- disk tools,gpated
