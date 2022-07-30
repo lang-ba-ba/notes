@@ -19,3 +19,5 @@
 - install gcc, I make a c file, it works
 
 - disk tools,gpated
+
+- sudo -E pacman .... (-E preserve enrioments)
